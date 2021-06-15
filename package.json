@@ -1,0 +1,25 @@
+{
+  "name": "nu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "prompt": "^1.1.0",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "ansi-color": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.2",
+    "jest": "^26.6.3"
+  }
+}
